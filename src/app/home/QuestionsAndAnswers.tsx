@@ -73,16 +73,15 @@ const QAS = [
     answer: (
       <p>
         ResumeBuilder was created by{" "}
-        <Link href="https://github.com/devildev-cyber">Xitang Zhao</Link> and designed
-        by <Link href="https://www.linkedin.com/in/imzhi">Zhigang Wen</Link> as
-        a weekend project. As immigrants to the US, we had made many mistakes
+        <Link href="https://github.com/devildev-cyber">Devil Dev</Link> as
+        a weekend project. I had made many mistakes
         when creating our first resumes and applying for internships and jobs.
         It took us a long while to learn some of the best practices. While
-        mentoring first generation students and reviewing their resumes, we
-        noticed students were making the same mistakes that we had made before.
-        This led us to think about how we can be of help with the knowledge and
-        skills we have gained. We started chatting and working over the weekends
-        that led to ResumeBuilder, where we integrated best practices and our
+        mentoring first generation students and reviewing their resumes, I
+        noticed students were making the same mistakes that I had made before.
+        This led us to think about how I can be of help with the knowledge and
+        skills I have gained. I started chatting and working over the weekends
+        that led to ResumeBuilder, where I integrated best practices and our
         knowledge into this resume builder. Our hope is that ResumeBuilder can help
         anyone to easily create a modern professional resume that follows best
         practices and enable anyone to apply for jobs with confidence.
@@ -97,7 +96,7 @@ const QAS = [
           The best way to support ResumeBuilder is to share your thoughts and
           feedback with us to help further improve it. You can send us an email
           at{" "}
-          <Link href="mailto:hello@resume-builder.com">hello@resume-builder.com</Link>{" "}
+          <Link href="mailto:yurigreystone@gmail.com">yurigreystone@gmail.com</Link>{" "}
           or{" "}
           <Link href="https://github.com/devildev-cyber/resume-builder/issues/new">
             open an issue
