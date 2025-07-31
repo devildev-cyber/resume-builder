@@ -25,8 +25,6 @@ ResumeBuilder’s second component is the resume parser. For those who have an e
 
 ![Resume Parser Demo](https://i.ibb.co/JvSVwNk/resume-parser-demo-optimize.gif)
 
-You can learn more about the resume parser algorithm in the ["Resume Parser Algorithm Deep Dive" section](https://resume-builder.com/resume-parser).
-
 ## 📚 Tech Stack
 
 | <div style="width:140px">**Category**</div> | <div style="width:100px">**Choice**</div> | **Descriptions** |
