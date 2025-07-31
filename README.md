@@ -4,8 +4,6 @@ ResumeBuilder is a powerful open-source resume builder and resume parser.
 
 The goal of ResumeBuilder is to provide everyone with free access to a modern professional resume design and enable anyone to apply for jobs with confidence.
 
-Official site: [https://resume-builder.com](https://resume-builder.com)
-
 ## ⚒️ Resume Builder
 
 ResumeBuilder's resume builder allows user to create a modern professional resume easily.
